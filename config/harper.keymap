@@ -48,7 +48,7 @@
             >;
 
             sensor-bindings =
-                <&inc_dec_kp K_VOL_UP K_VOL_DN>,
+                <&inc_dec_kp K_VOLUME_UP2 K_VOLUME_DOWN2>,
                 <&inc_dec_kp C_BRIGHTNESS_INC C_BRIGHTNESS_DEC>;
         };
 
